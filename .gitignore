@@ -1,0 +1,8 @@
+VgcStatus.exe
+VgcStatus.pdb
+SmokeTest.cs
+SmokeTest.exe
+*.user
+*.png
+bin/
+obj/
